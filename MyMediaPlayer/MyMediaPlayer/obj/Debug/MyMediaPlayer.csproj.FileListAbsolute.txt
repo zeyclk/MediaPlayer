@@ -1,0 +1,39 @@
+c:\users\zeynep\documents\visual studio 2012\Projects\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.exe.config
+c:\users\zeynep\documents\visual studio 2012\Projects\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.exe
+c:\users\zeynep\documents\visual studio 2012\Projects\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.pdb
+c:\users\zeynep\documents\visual studio 2012\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.csprojResolveAssemblyReference.cache
+c:\users\zeynep\documents\visual studio 2012\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\MainWindow.baml
+c:\users\zeynep\documents\visual studio 2012\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\MainWindow.g.cs
+c:\users\zeynep\documents\visual studio 2012\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\App.g.cs
+c:\users\zeynep\documents\visual studio 2012\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer_MarkupCompile.cache
+c:\users\zeynep\documents\visual studio 2012\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.g.resources
+c:\users\zeynep\documents\visual studio 2012\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.Properties.Resources.resources
+c:\users\zeynep\documents\visual studio 2012\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.csproj.GenerateResource.Cache
+c:\users\zeynep\documents\visual studio 2012\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.exe
+c:\users\zeynep\documents\visual studio 2012\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.pdb
+E:\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.exe.config
+E:\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.exe
+E:\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.pdb
+E:\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.exe
+E:\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.pdb
+E:\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.csprojResolveAssemblyReference.cache
+E:\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MainWindow.baml
+E:\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MainWindow.g.cs
+E:\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\App.g.cs
+E:\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer_MarkupCompile.cache
+E:\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.g.resources
+E:\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.Properties.Resources.resources
+E:\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.csproj.GenerateResource.Cache
+G:\dosya\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.exe.config
+G:\dosya\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.exe
+G:\dosya\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.pdb
+G:\dosya\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.exe
+G:\dosya\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.pdb
+G:\dosya\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.csprojResolveAssemblyReference.cache
+G:\dosya\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MainWindow.baml
+G:\dosya\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MainWindow.g.cs
+G:\dosya\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\App.g.cs
+G:\dosya\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer_MarkupCompile.cache
+G:\dosya\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.g.resources
+G:\dosya\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.Properties.Resources.resources
+G:\dosya\BilgisayarDers\Programlar\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.csproj.GenerateResource.Cache

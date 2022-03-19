@@ -1,0 +1,44 @@
+﻿<Window x:Class="MyMediaPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MyMediaPlayer" Height="500" Width="700" MouseDown="Window_MouseDown">
+    <Grid Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="29*"/>
+            <RowDefinition Height="224*"/>
+            <RowDefinition Height="42*"/>
+            <RowDefinition Height="24*"/>
+        </Grid.RowDefinitions>
+
+        <Menu Name="anamenu" Height="30" Grid.Row="0">
+            <MenuItem Header="Dosya" FontSize="15">
+                <MenuItem Name="dosya_ekle" Header="Dosya Aç" Click="dosya_ekle_Click"/>
+                <MenuItem Name="dvd_ac" Header="DVD/USB Aç" Click="dvd_ac_Click"/>
+                <Separator/>
+                <MenuItem Name="cikis" Header="Çıkış" Click="cikis_Click"/>
+
+            </MenuItem>
+            <MenuItem Header="Görünüm" FontSize="15">
+                <MenuItem Name="menu" Header="Menüyü Gizle" Click="menu_Click"/>
+            </MenuItem>
+            <MenuItem Header="Yürütme" FontSize="15">
+                <MenuItem Name="play" Header="Oynat" Click="play_Click"/>
+                <MenuItem Name="stop" Header="Durdur" Click="stop_Click"/>
+                <MenuItem Name="forward" Header="Görüntü Atlaması" Click="forward_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <MediaElement Name="media" Grid.Row="1"/>
+        <Button x:Name="basla" Content="▶" HorizontalAlignment="Left" Margin="0,10,0,0" Grid.Row="2" VerticalAlignment="Top" Width="40" Click="basla_Click"/>
+        <Button Name="duraklat" Content="⏯️"  HorizontalAlignment="Left" Margin="45,10,0,0" Grid.Row="2" VerticalAlignment="Top" Width="40" Click="duraklat_Click" RenderTransformOrigin="-0.633,0.697"/>
+        <Button x:Name="durdur" Content="■" HorizontalAlignment="Left" Margin="90,10,0,0" Grid.Row="2" VerticalAlignment="Top" Width="40" Click="durdur_Click"/>
+        <Button Name="ses" Content="🔇" HorizontalAlignment="Right" Margin="0,10,100,0" Grid.Row="2" VerticalAlignment="Top" Width="43" Click="ses_Click"/>
+        <Slider Name="sld_ses" HorizontalAlignment="Right" Margin="0,10,10,0" Grid.Row="2" VerticalAlignment="Top" Width="80" Height="20" ValueChanged="sld_ses_ValueChanged" Value="5"/>
+        <Slider Name="sld_pos" HorizontalAlignment="Center" Margin="144,10,157,0" Grid.Row="2" VerticalAlignment="Top" Width="391" Height="20" ValueChanged="sld_pos_ValueChanged"/>
+        <StatusBar Grid.Row="3">
+            <TextBlock Name="txt_sure"></TextBlock>
+        </StatusBar>
+
+
+    </Grid>
+</Window>
